@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/Vinitshrivastav/Vinitshrivastav/blob/main/istockphoto-1219854221-612x612.jpg)
 <h1 align="center">Hi 👋, I'm Vinit Shrivastav</h1>
 <h3 align="center">A passionate MERN Stack Developer</h3>
 
