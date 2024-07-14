@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/Vinitshrivastav/Vinitshrivastav/blob/main/Beige%20Minimalist%20Personal%20Business%20LinkedIn%20Background%20Photo.png)
 <h1 align="center">Hi 👋, I'm Vinit Shrivastav</h1>
 <h3 align="center">A passionate MERN Stack Developer</h3>
 
